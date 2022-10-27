@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ejemplo1.xsl"?>
+<AUTOS>
+  <Autos>
+    <Marca>Tesla</Marca>
+    <Precio>1098000</Precio>
+ </Autos>
+ <Autos>
+    <Marca>Mazda</Marca>
+    <Precio>273900</Precio>
+  </Autos>
+  <Autos>
+    <Marca>BMW</Marca>
+    <Precio>810000</Precio>
+  </Autos>
+</AUTOS>
